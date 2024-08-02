@@ -134,7 +134,7 @@
         <div class="container">
             <h2>Contact:939202128</h2>
             <p>Email:srinivashjanni@gmail.com</p>
-            <p>LinkedIn:<a href
+            <p>LinkedIn:<a href=
 "https://www.linkedin.com/in/srinivash-janni-90178a2b0">srinivash</a></p>
             <!-- Add more contact details as needed -->
         </div>
